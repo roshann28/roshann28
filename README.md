@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me  
 🎯 Passionate developer who enjoys solving problems and creating innovative solutions.  
-💡 Skilled in **AI, Web Development, ARM systems, and problem-solving with DSA**.  
+💡 Skilled in **AI, Web Development, and problem-solving with DSA**.  
 ✨ Aim: To transform ideas into impactful projects that blend creativity with tech.  
 
 ---
